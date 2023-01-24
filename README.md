@@ -2,6 +2,7 @@
 - 👀 I’m interested in MERN ,DJANGO ,and android Development  in Kotlin 
 - 🌱 I’m currently learning ... MERN AND 
 - 💞️ I’m looking to collaborate on ...
+- I'm currently learning Data Science and Machine Learnig
 - 📫 How to reach me ...
 
 <!---
