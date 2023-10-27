@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sammainahkinya1404
-- 👀 I’m interested in MERN ,DJANGO  
-- 🌱 I'm intersted in  Data Science and Machine Learnig
-- 💞️ I’m looking to collaborate on Django and MERN projects
+- 👀 I’m interested in ReactJs,Express and and Node
+- 🌱 I'm intersted in  Data Science and Machine Learnig,Deep Learning
+- 💞️ I’m looking to collaborate on MERN projects and Deep Learning Projects
 -
 - 📫 How to reach me ...
   sammainah98@gmail.com
