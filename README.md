@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @sammainahkinya1404
-- 👀 I’m interested in Deep Learning
-- 🌱 I'm intersted in  Data Science and Machine Learnig,
 - 💞️ I’m looking to collaborate on  Machine Learning Projects
 -
 - 📫 How to reach me ...
