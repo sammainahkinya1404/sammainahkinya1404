@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sammainahkinya1404
 - 💞️ I’m looking to collaborate on  Machine Learning Projects
--Depp Learning
+-Deep Learning
 -Django and Reactjs are My Stack
 - 📫 How to reach me ...
   sammainah98@gmail.com
