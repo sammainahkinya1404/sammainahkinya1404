@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://sammainah.com"><img src="https://img.shields.io/badge/Portfolio-sammainah.com-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
+  <a href="https://sammainah.com/assets/Samson_Kinyanjui_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-Download-2EA44F?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Résumé"></a>
   <a href="https://www.linkedin.com/in/sammainah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://x.com/sammainah"><img src="https://img.shields.io/badge/X-@sammainah-000000?style=flat-square&logo=x&logoColor=white" alt="X"></a>
   <a href="mailto:sammainah98@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
