@@ -6,6 +6,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammainahkinya1404&style=flat-square&color=0A66C2&label=Profile+views" alt="Profile views">
+</p>
+
+<p align="center">
   <a href="https://sammainah.com"><img src="https://img.shields.io/badge/Portfolio-sammainah.com-0A66C2?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://sammainah.com/assets/Samson_Kinyanjui_Resume.pdf"><img src="https://img.shields.io/badge/Résumé-Download-2EA44F?style=flat-square&logo=adobeacrobatreader&logoColor=white" alt="Résumé"></a>
   <a href="https://www.linkedin.com/in/sammainah"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
