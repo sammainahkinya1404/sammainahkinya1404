@@ -86,6 +86,10 @@ I'm an AI Engineer based in **Nairobi, Kenya**, building production LLM systems 
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammainahkinya1404&layout=compact&hide_border=true&theme=tokyonight" alt="Top Languages">
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sammainahkinya1404&hide_border=true&theme=tokyo-night&area=true" alt="Contribution Graph">
+</p>
+
 ---
 
 ### 🤝 Let's Collaborate
