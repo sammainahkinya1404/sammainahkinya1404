@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Samson Kinyanjui 👋</h1>
 
 <p align="center">
-  <b>AI Engineer · Building self-hosted LLM systems</b><br>
-  Fine-tuning · Quantization · RAG · Multi-agent pipelines
+  <b>Backend Engineer · AI Engineer</b><br>
+  90% backend systems · 10% applied AI — APIs, data, and self-hosted LLMs
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ### 🧠 About
 
-I'm an AI Engineer based in **Nairobi, Kenya**, building production LLM systems end-to-end — from fine-tuning and quantization to RAG and multi-agent orchestration. I hold an **MSc in Computer Science** from Dedan Kimathi University of Technology (DeKUT).
+I'm a **Backend / AI Engineer** based in **Nairobi, Kenya**. Realistically my day is **~90% backend** — designing APIs, data pipelines, and reliable services — and **~10% applied AI**, where I bring in fine-tuning, RAG, and self-hosted LLMs when they actually move the needle. I hold an **MSc in Computer Science** from Dedan Kimathi University of Technology (DeKUT).
 
 - 🏢 Currently building **compliance & tax automation** for Australian markets at **Supreme AI**
 - 🔬 Independent researcher adapting global AI research for **African contexts**
@@ -32,22 +32,22 @@ I'm an AI Engineer based in **Nairobi, Kenya**, building production LLM systems 
 
 ### 🛠 Tech Stack
 
-**LLM Systems**
-<p>
-  <img src="https://img.shields.io/badge/Fine--tuning-LoRA%20%2F%20QLoRA-FF6F00?style=flat-square" alt="Fine-tuning">
-  <img src="https://img.shields.io/badge/Quantization-GPTQ%20%2F%20AWQ%20%2F%20GGUF-6E40C9?style=flat-square" alt="Quantization">
-  <img src="https://img.shields.io/badge/vLLM-serving-1A73E8?style=flat-square" alt="vLLM">
-  <img src="https://img.shields.io/badge/RAG-retrieval-00A67E?style=flat-square" alt="RAG">
-  <img src="https://img.shields.io/badge/LangGraph-multi--agent-2C3E50?style=flat-square" alt="LangGraph">
-</p>
-
-**Backend & ML**
+**Backend** *(where most of the work happens)*
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+**Applied AI / ML**
+<p>
+  <img src="https://img.shields.io/badge/Fine--tuning-LoRA%20%2F%20QLoRA-FF6F00?style=flat-square" alt="Fine-tuning">
+  <img src="https://img.shields.io/badge/Quantization-GPTQ%20%2F%20AWQ%20%2F%20GGUF-6E40C9?style=flat-square" alt="Quantization">
+  <img src="https://img.shields.io/badge/vLLM-serving-1A73E8?style=flat-square" alt="vLLM">
+  <img src="https://img.shields.io/badge/RAG-retrieval-00A67E?style=flat-square" alt="RAG">
+  <img src="https://img.shields.io/badge/LangGraph-multi--agent-2C3E50?style=flat-square" alt="LangGraph">
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain">
@@ -104,6 +104,16 @@ I'm open to work and collaboration on:
 - AI products that solve real problems — especially in **African and emerging markets**
 
 📫 **Email:** [sammainah98@gmail.com](mailto:sammainah98@gmail.com) · 🌐 **[sammainah.com](https://sammainah.com)**
+
+---
+
+### 💬 Dev Quote of the Day
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+</p>
+
+<p align="center"><i>“It works on my machine.” — every backend engineer, right before deploy 🚀</i></p>
 
 ---
 
